@@ -1,0 +1,11 @@
+div {
+    margin: 5px auto;
+}
+.square {
+    background: red;
+}
+
+.circle {
+    background: blue;
+    border-radius: 50%;
+}
